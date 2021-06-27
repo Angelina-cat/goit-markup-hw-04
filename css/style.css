@@ -1,0 +1,719 @@
+
+*, ::after,::before{
+    box-sizing: border-box;
+}
+a {
+text-decoration: none;
+}
+img{
+    display: block;
+    max-width: 100%;
+}
+body{
+    background-color: #FFFFFF;
+    max-width: 1600px;
+    font-family:Roboto,sans-serif;
+    
+    margin: 0 auto;
+
+   
+
+
+}
+.section-our-com{
+    margin-top: 50px;
+    margin-bottom: 94px;
+}
+.container-one{
+    width: 1200px;
+    margin:0 auto;
+    padding: 0 15 0 15px;
+}
+.container-one{
+    display: flex;
+
+}
+ul{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+    
+  
+.section-team-card-super p{ 
+   
+    font-size: 16px;
+    line-height:1.17 ;
+    font-weight: 400;
+    text-decoration: none;
+  letter-spacing: 0.03em;
+  width: 1200px;
+
+}
+
+ 
+.section-number{
+    width: 1200px;
+    
+}
+.team-card{
+    background-color:#F5F4FA ;
+    display: flex;
+    align-items: stretch;
+    }
+    .what-we-are-doing{
+        display: flex;
+    align-items: stretch;
+    
+    }
+.team-card :not(:last-child){
+    margin-right: 30px;
+    
+}
+
+.what-we-are-doing li:not(:last-child){
+padding-right: 30px;
+}
+.plan-b li{
+    margin-right: 30px;
+    margin-bottom: 94px;
+}
+    
+    .plan-b li :not(:last-child){
+        padding-right: 30px;
+        }
+   
+      .team-card-one{
+          color: #212121;
+          font-size: 16px;
+          line-height:1.17 ;
+          font-weight: 500;
+          text-decoration: none;
+        letter-spacing: 0.03em;
+    padding-bottom: 10px;
+    margin-top: 94px;
+    
+    }
+        .team-card-one-igor{
+            color: #212121;
+            font-size: 16px;
+            line-height:1.17 ;
+            font-weight: 500;
+            text-decoration: none;
+          letter-spacing: 0.03em; 
+          margin-right:59px ;
+          margin-top:30px ;
+          margin-bottom:10px ;
+          margin-left:60px ;
+          font-family:Roboto,sans-serif
+        }
+        .team-card-olga{
+            color: #212121;
+            font-size: 16px;
+            line-height:1.17 ;
+            font-weight: 500;
+            text-decoration: none;
+          letter-spacing: 0.03em; 
+          margin-right:81px ;
+          margin-top:30px ;
+          margin-bottom:10px ;
+          margin-left:80px ;
+          font-family:Roboto,sans-serif
+
+        }
+        .team-card-tarasov{
+            color: #212121;
+            font-size: 16px;
+            line-height:1.17 ;
+            font-weight: 500;
+            text-decoration: none;
+          letter-spacing:0.03em; 
+          margin-right:66px ;
+          margin-top:30px ;
+          margin-bottom:10px ;
+          margin-left:67px ;
+          font-family:Roboto,sans-serif
+        }
+        .team-card-ermakov{
+            color: #212121;
+            font-size: 16px;
+            line-height:1.17 ;
+            font-weight: 500;
+            text-decoration: none;
+          letter-spacing:0.03em; 
+          margin-right:68px ;
+          margin-top:30px ;
+          margin-bottom:10px ;
+          margin-left:68px ;
+          font-family:Roboto,sans-serif  
+        }
+        
+        .designer-cool{
+            color: #757575;
+            font-size: 16px;
+            line-height:1.17 ;
+            font-weight: 400;
+            text-decoration: none;
+          letter-spacing: 0.03em; 
+          margin-right:70px ;
+          
+          margin-bottom:30px ;
+          margin-left:70px ;
+          font-family:Roboto,sans-serif 
+
+        }
+        .designer-cool-olga{
+            color: #757575;
+            font-size: 16px;
+            line-height:1.17 ;
+            font-weight: 400;
+            text-decoration: none;
+          letter-spacing: 0.03em; 
+          margin-right:61px ;
+          
+          margin-bottom:30px ;
+          margin-left:62px ;
+          font-family:Roboto,sans-serif 
+
+        }
+        .designer-cool-tarasov{
+            color: #757575;
+            font-size: 16px;
+            line-height:1.17 ;
+            font-weight: 400;
+            text-decoration: none;
+          letter-spacing: 0.03em; 
+          margin-right:97px ;
+          
+          margin-bottom:30px ;
+          margin-left:97px ;
+          font-family:Roboto,sans-serif 
+
+        }
+        .designer-cool-ermakov{
+            color: #757575;
+            font-size: 16px;
+            line-height:1.17 ;
+            font-weight: 400;
+            text-decoration: none;
+          letter-spacing: 0.03em; 
+          margin-right:91px ;
+          
+          margin-bottom:30px ;
+          margin-left:92px ;
+          font-family:Roboto,sans-serif 
+
+        }
+          .logo-header-two{
+            color: #212121 ;
+            font-size: 26px;
+            line-height:1.17 ;
+            font-weight: 700;
+            font-family:Raleway,sans-serif ;
+            text-decoration: none;
+           padding-left: 15px;
+           letter-spacing: 0.03em;
+        }
+       
+        
+.page-header{
+    border-bottom: 1px solid #ECECEC ;
+    height: 80px;
+            
+            
+}
+       
+
+        
+      .logo-first{
+          color:#2196F3;
+          font-size: 26px;
+          line-height:1.17 ;
+          font-weight: 700;
+          font-family:Raleway,sans-serif ;
+          text-decoration: none; 
+          letter-spacing: 0.03em;
+          
+        }
+      
+          .logo-header{
+        color:#FFFFFF ;
+        font-size: 26px;
+        line-height:1.17 ;
+        font-weight: 700;
+        font-family:Raleway,sans-serif ;
+        text-decoration: none;
+        letter-spacing: 0.03em;
+}
+
+    .team-card-two:hover{
+        color:dodgerblue;
+        
+    }
+    .team-card-two:focus{
+        color:dodgerblue;
+        
+    }
+    .logo-header-two:hover{
+        color:dodgerblue;
+        
+    }
+    .logo-header-two:focus{
+        color:dodgerblue;}
+        
+        .e-mail:hover{
+            color:dodgerblue;
+            
+        }
+       
+            
+            
+            
+   .mail-one{
+       padding-top: 9px;
+       padding-bottom: 9px;
+   }
+   .e-mail{
+    color: #757575;
+    font-size: 14px;
+    line-height:1.17 ;
+    font-weight: 500;
+    text-decoration: none;
+    letter-spacing: 0.02em;
+    font-family:Roboto,sans-serif ;
+    margin-left: 50px;
+   }
+            
+       
+      
+
+        
+                
+                   .maximum-size {
+                    color: rgb(255,255,255,0.6);
+                    font-size: 14px;
+                    line-height:1.71 ;
+                    font-weight: 400;
+                    
+                    letter-spacing: 0.03em;
+                    
+                   }
+  
+
+
+
+
+.street-one
+{ color:#FFFFFF;
+    font-size: 14px;
+    line-height:1.17 ;
+    font-weight: 400;
+    text-decoration: none;
+    letter-spacing: 0.03em;
+}
+
+.item-one 
+{
+    display: flex;
+ margin-left: 93px;
+}
+.item-one .item{
+
+margin-right: 50px;  
+
+
+ }
+
+ .item-one .item:last-child{
+     margin-right: 0px;
+ }
+ .container-portfolio-two li{
+     display: flex;
+     margin-left: auto;
+     
+    
+ }
+ .container-portfolio-two .item + .item{
+     
+     margin-right: auto;
+ }
+nav{
+    display: flex;
+    align-items: center;
+}
+.team-card-two
+.e-mail{
+    display:block;
+}
+
+
+
+.team-card-two {
+    
+    color: #212121;
+    font-size: 14px;
+    line-height:1.17 ;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+}
+    .logo-first-two{
+        color:#2196F3;
+        font-size: 26px;
+        line-height:1.17 ;
+        font-weight: 700;
+        font-family:Raleway,serif ;
+        letter-spacing: 0.03em;
+        text-decoration: none;}
+        footer{margin-top: 94px;
+            background-color: #2F303A;
+            width: 1200px;
+            
+        }
+     
+        button{
+            display: inline-block;
+            
+            background-color:#2196f3;
+            color: #FFFFFF;
+            font-size: 16px;
+    line-height:1.87 ;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    height: 50px;
+    border: transparent;
+    padding:10px 32px ;
+    text-decoration:none;
+    text-align: center;
+border-radius: 4px;
+
+
+}
+
+
+
+
+
+ 
+    
+
+    .twenty-two-section{
+        box-sizing: border-box;
+       
+       width: 1200px;
+        
+        padding-left: 15px;
+        padding-right:15px ;
+       color: #FFFFFF;
+       background-color:#3a3a3d;
+       text-align: center;
+       padding-top:200px ;
+       padding-bottom:200px;
+
+
+}
+      
+       .decid-my-win{
+           color: #FFFFFF;
+ 
+ font-size: 44px;
+          line-height:1.17 ;
+          font-weight: 900;
+          font-family: Roboto,sans-serif;
+          text-decoration: none; 
+          letter-spacing: 0.06em;
+         margin-top: 200px ;
+         margin-bottom: 30px;
+         padding-top: 200px;
+         padding-bottom: 280px;
+          
+
+
+
+    }
+ 
+   
+     
+    
+    
+    
+    .section-team-twenty-one{
+
+        
+        padding-top: 94px;
+  
+    padding-top:  186px;
+   padding-right: 215px;
+   padding-bottom:  94px;
+   padding-left:  215px;
+   
+       
+    }
+
+
+
+    
+
+
+
+.section-attention-first{
+    width: 1200px;
+    margin: 0px auto ;
+    padding: 0px 15px 0px 15px ;
+}
+
+
+
+
+
+.container-normal{
+    display: flex;
+    flex-wrap:wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding-top: 94px;
+    padding-bottom: 50px;
+
+
+}
+ul .item{
+    color: #212121;
+    font-size: 14px;
+          line-height:1.17 ;
+          font-weight: 500;
+          font-family: Roboto,sans-serif;
+          text-decoration: none; 
+          letter-spacing: 0.02em;
+         
+}
+li .team-card-one{
+    color: #212121;
+    font-size: 14px;
+          line-height:1.17 ;
+          font-weight: 700;
+          font-family: Roboto,sans-serif;
+          text-decoration: none; 
+          letter-spacing: 0.03em;
+          
+         
+}
+
+.item p{
+    color: #757575;
+    font-size: 14px;
+          line-height:1.71 ;
+          font-weight: 400;
+          font-family: Roboto,sans-serif;
+          text-decoration: none; 
+          letter-spacing: 0.03em;
+}
+li{
+    list-style: none;
+}
+.word-our-com {
+    color: #212121;
+    font-size: 36px;
+          line-height:1.17 ;
+          font-weight: 700;
+          font-family: Roboto,sans-serif;
+          text-decoration: none; 
+          letter-spacing: 0.03em;
+          margin: 0px;
+          text-align: center;
+          padding-top: 94px;
+          padding-bottom: 50px;
+
+}
+
+.button-two{
+    color: #212121;
+    font-size: 16px;
+          line-height:1.62 ;
+          font-weight: 500;
+          font-family: Roboto,sans-serif;
+          text-decoration: none; 
+          letter-spacing: 0.03em;
+          background-color:#F5F4FA;
+
+          
+}
+
+ul .time-class{
+    color: #212121;
+    font-size: 18px;
+          line-height:2.0;
+          font-weight: 700;
+          font-family: Roboto,sans-serif;
+          
+          letter-spacing: 0.06em;
+          padding-left: 24px;
+          padding-right: 24px;
+          padding-top: 20px;
+          }
+.web-site{
+    color: #757575;
+    font-size: 16px;
+          line-height:1.87;
+          font-weight: 400;
+          font-family: Roboto,sans-serif;
+          text-decoration: none; 
+          letter-spacing: 0.03em;
+        text-decoration: none;
+        padding-left:24px ;
+        padding-right: 24px;
+        padding-top: 4px;
+        padding-bottom: 20px;
+        
+
+}
+.section-team-card-one{
+    box-sizing: border-box;
+    margin-top: 94px;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+.our-work{
+    margin-top: 94px;
+    margin-bottom: 94px;
+}
+.woman-and-man{
+   
+    background-color: #F5F4FA;
+    height: 648px;
+    width: 1200px;
+    margin-top: 94px;
+    margin-bottom: 0px;
+    padding-left: 15px;
+    padding-right: 15px;
+    
+    
+    
+}
+.container-footer{
+    box-sizing: border-box;
+
+    margin-top: 0px;
+    
+}
+
+
+
+
+
+.section-our-com{
+    padding-bottom: 50px;
+    text-align: center;
+    padding-top: 94px;
+
+}
+
+
+
+.plan-b {
+    display: flex;
+}
+.plan-b li:not(:last-child){
+    margin-right: 30px;}
+    
+    
+    .portfolio-work{
+        display: flex;
+        flex-wrap: wrap;
+
+        padding-right: -30px;
+        
+    }
+.container-footer-two{
+    display: flex;
+    flex-direction: column;
+    padding-left:15px;
+    
+}
+footer .logo-header{
+    display:inline-block;
+    padding-top:60px ;
+    padding-bottom: 20px;
+    padding-left: 15px;
+}
+.contacts-two {
+    padding-bottom: 60px;
+    padding-left: 15px;
+    padding-top: 20px;
+
+
+
+}
+.button-marketing {
+    display: flex;
+    }
+    .button-marketing li{
+        display:inline-block;
+        border-radius:4px ;
+        margin-right: 8px;
+
+    }
+   
+.cinderella-one{
+    margin-right: 30px;
+    width: 370px;
+    margin-bottom: 30px;
+    
+    
+}
+
+
+.container-portfolio{
+    width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-decoration: none;
+}
+.cinderella-one:nth-last-child(-n+3){
+    margin-bottom: 0px;
+}
+
+.cinderella-one {
+    border:  1px solid #EEEEEE ;
+    
+    border-bottom-style: outset;
+}
+.cinderella-one:nth-child(3n) {
+    margin-right: -15px;
+}      
+ 
+.color-life{
+    background-color: #FFFFFF;
+    width: 270px;
+    margin-top: 0px;
+    
+}
+.woman-and-man .color-life{
+    box-shadow: 0px 2px 1px 0px rgba(0, 0, 0, 0.2);
+
+    box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.14);
+    
+    box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+    
+}
+footer a:hover{
+    color:dodgerblue;
+
+}
+footer a:focus{
+    color:dodgerblue;
+}
+.container-portfolio-two{
+    display: flex;
+    margin-left: auto;
+    padding-top: 32px;
+    padding-bottom: 32px;
+}
+.main-content{
+    width: 1200px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
