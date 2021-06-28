@@ -717,3 +717,15 @@ footer a:focus{
     padding-left: 15px;
     padding-right: 15px;
 }
+.footer-section{
+    width: 1200px;
+    padding-left: 15px;
+    padding-right: 15px; 
+}
+
+.container-portfolio-komanda{
+    width: 1200px;
+    padding-left: 15px;
+    padding-right: 15px;
+    
+}
