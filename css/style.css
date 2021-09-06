@@ -889,7 +889,7 @@ padding-top: 50px;
     }
     .icon-sign :hover{
         fill: #F5F4FA;
-        background-color: #188CE8;
+        
     }
        .insta-action.button-icon-instagrams{
            display: block;
@@ -901,3 +901,51 @@ padding-top: 50px;
      .team-card .button-icon-instagrams :hover{
 background-color:#188CE8;
      }
+     .ride-red::before{
+         display: block;
+         content: "";
+        background-color: rgba(245, 244, 250, 1);
+        ;
+         height: 120px;
+         background-image:url(../img/antenna\ 1.svg);
+         background-size: contain;
+         background-repeat: no-repeat;
+         background-position:center;
+
+     }
+     .ride-green::before{
+        display: block;
+        content: "";
+       background-color: rgba(245, 244, 250, 1);
+       ;
+        height: 120px;
+        background-image:url(../img/clock\ 1.svg);
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position:center;
+
+    }
+    .ride-yellow::before{
+        display: block;
+        content: "";
+       background-color: rgba(245, 244, 250, 1);
+       ;
+        height: 120px;
+        background-image:url(../img/diagram\ 1.svg);
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position:center;
+
+    }
+    .ride-mix::before{
+        display: block;
+        content: "";
+       background-color: rgba(245, 244, 250, 1);
+       ;
+        height: 120px;
+        background-image:url(../img/astronaut\ 2.svg);
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position:center;
+
+    }
