@@ -889,7 +889,15 @@ padding-top: 50px;
     }
     .icon-sign :hover{
         fill: #F5F4FA;
-    }
-    button.button-icon-instagrams :hover{
         background-color: #188CE8;
     }
+       .insta-action.button-icon-instagrams{
+           display: block;
+           cursor: pointer;
+           width: 44px;
+           height:44px ;
+        
+    }
+     .team-card .button-icon-instagrams :hover{
+background-color:#188CE8;
+     }
