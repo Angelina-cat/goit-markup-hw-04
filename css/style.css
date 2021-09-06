@@ -633,21 +633,21 @@ ul.web-site{
         
         
     }
-.container-footer-two{
-    display: flex;
-    flex-direction: column;
-    padding-left:15px;
-    width: 1200px;
+    .container-footer-two{
+        display: flex;
+        flex-direction: column;
+        padding-left:15px;
+        width: 1200px;
     
 }
 footer .logo-header{
     display:inline-block;
     padding-top:60px ;
-    padding-bottom: 20px;
+    margin-bottom: 20px;
     padding-left: 15px;
 }
-.contacts-two {
-    padding-bottom: 60px;
+.contacts-two  {
+    margin-bottom: 60px;
     padding-left: 15px;
    
 
@@ -911,7 +911,7 @@ background-color:#188CE8;
          background-size: contain;
          background-repeat: no-repeat;
          background-position:center;
-
+         margin-bottom: 30px;
      }
      .ride-green::before{
         display: block;
@@ -923,6 +923,7 @@ background-color:#188CE8;
         background-size: contain;
         background-repeat: no-repeat;
         background-position:center;
+        margin-bottom: 30px;
 
     }
     .ride-yellow::before{
@@ -935,6 +936,7 @@ background-color:#188CE8;
         background-size: contain;
         background-repeat: no-repeat;
         background-position:center;
+        margin-bottom: 30px;
 
     }
     .ride-mix::before{
@@ -947,5 +949,48 @@ background-color:#188CE8;
         background-size: contain;
         background-repeat: no-repeat;
         background-position:center;
+        margin-bottom: 30px;
 
     }
+    .together-better{
+        
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: 1.17;
+letter-spacing: 0.03em;
+color: #FFFFFF;
+margin-left: 150px;
+margin-top: 72px;
+font-weight: bold;
+
+height: 16px;
+width: 145px;
+
+
+    }
+   
+    .love-world button{
+        background: rgba(255, 255, 255, 0.1);
+
+    }
+    .love-world button :hover{
+        background-color: blue;
+    }
+    .icon-matter button{
+      border:1px solid #AFB1B8;
+      background-color: #e5e5e5;
+    }
+    .love-world button{
+        display: block;
+        width: 44px;
+        height: 44px;
+        padding: 0;
+        border: none;
+    }
+    .love-world{
+        display: flex;
+        padding-top: 16px;
+        padding-bottom: 30px;
+        list-style: none;
+    padding-top: 70px;}
