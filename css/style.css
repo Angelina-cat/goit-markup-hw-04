@@ -742,6 +742,7 @@ footer a:focus{
     padding-bottom: 94px;
     
 }
+
 .container-portfolio-two li{
 margin-right: 50px;
 }
@@ -797,15 +798,7 @@ box-shadow: 0px 1px 1px 0px rgba(0, 0, 0, 0.12);
      margin-right: auto;
 
  }
- .cool-card::before{
-     display: block;
-     content: "";
-     background-size: contain;
-     height:120px ;
-  
-     background-color: rgba(245, 244, 250, 1);
-     
- }
+
  
  .company-client h1{
      text-align: center;
@@ -903,57 +896,8 @@ padding-top: 50px;
      .team-card .button-icon-instagrams :hover{
 background-color:#188CE8;
      }
-     .ride-red::before{
-         display: block;
-         content: "";
-        background-color: rgba(245, 244, 250, 1);
-        ;
-         height: 120px;
-         background-image:url(../img/antenna\ 1.svg);
-         background-size: contain;
-         background-repeat: no-repeat;
-         background-position:center;
-         margin-bottom: 30px;
-     }
-     .ride-green::before{
-        display: block;
-        content: "";
-       background-color: rgba(245, 244, 250, 1);
-       ;
-        height: 120px;
-        background-image:url(../img/clock\ 1.svg);
-        background-size: contain;
-        background-repeat: no-repeat;
-        background-position:center;
-        margin-bottom: 30px;
-
-    }
-    .ride-yellow::before{
-        display: block;
-        content: "";
-       background-color: rgba(245, 244, 250, 1);
-       ;
-        height: 120px;
-        background-image:url(../img/diagram\ 1.svg);
-        background-size: contain;
-        background-repeat: no-repeat;
-        background-position:center;
-        margin-bottom: 30px;
-
-    }
-    .ride-mix::before{
-        display: block;
-        content: "";
-       background-color: rgba(245, 244, 250, 1);
-       ;
-        height: 120px;
-        background-image:url(../img/astronaut\ 2.svg);
-        background-size: contain;
-        background-repeat: no-repeat;
-        background-position:center;
-        margin-bottom: 30px;
-
-    }
+    
+    
     .together-better{
         
 font-size: 14px;
@@ -999,3 +943,4 @@ width: 145px;
     .team-card:not(:last-child){
         margin-right: 10px;
     }
+
