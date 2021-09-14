@@ -909,12 +909,12 @@ color: #FFFFFF;
 margin-left: 150px;
 margin-top: 72px;
 font-weight: bold;
-
 height: 16px;
-width: 145px;
-
-
-    }
+width: 145px;}
+.together-better{
+    margin-top: 75px;
+    margin-bottom:164px ;
+}
    
     .love-world button{
         background: rgba(255, 255, 255, 0.1);
@@ -944,3 +944,6 @@ width: 145px;
         margin-right: 10px;
     }
 
+    .icon-spell{
+
+    }
